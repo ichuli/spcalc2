@@ -40,6 +40,10 @@
     background-color: #bebebe;
   }
 
+  .ratenex{
+    margin: 1rem 0;
+  }
+
   #rate{
     background-color: transparent;
     color: var(--pri-color);
